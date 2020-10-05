@@ -363,3 +363,5 @@ FodyWeavers.xsd
 
 # Exclude secret files
 appsettings.Development.json
+az-app-deploy-script.ps1
+az-app-upgrade-script.ps1
